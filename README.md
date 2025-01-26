@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirthankar Dash Gupt!</h1>
 <h3 align="center">A python and frontend developer, also a web Designer.</h3>
 
-- 🔭 I’m currently working on **some discord bots and .**
+- 🔭 I’m currently working on **some discord bots and designing some websites.**
 
 - 🌱 I’m currently learning **JS and React**
 
