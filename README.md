@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirthankar Dash Gupt!</h1>
 <h3 align="center">A python developer and web designer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthankar-dash-gupt" alt="tirthankar-dash-gupt" /></a> </p>
-
 - 🔭 I’m currently working on **some discord bots and designing some websites.**
 
 - 🌱 I’m currently learning **JS and React**
