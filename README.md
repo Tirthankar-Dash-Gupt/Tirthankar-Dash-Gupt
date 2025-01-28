@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirthankar Dash Gupt!</h1>
 <h3 align="center">A python developer and web designer.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 - 🔭 I’m currently working on **some discord bots and designing some websites.**
 
